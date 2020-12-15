@@ -1,0 +1,8 @@
+Entidad\Recurso.class
+Entidad\Unidad_medida.class
+Control\encriptadorAES.class
+Control\validar_login.class
+DAO\UsuarioDAO.class
+Entidad\Categoria.class
+Entidad\Usuario.class
+Control\ContraseniaHasheada.class
